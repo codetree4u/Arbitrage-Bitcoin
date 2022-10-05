@@ -48,7 +48,7 @@ Upon launching the loan qualifier application you will be greeted with the follo
 
 ## Contributors
 
-Brought to you by Carlos R. you may reach me at reachcarlostoday@gmail.com
+Brought to you by Carlos R. you may reach me at carlosraymundo@gmail.com
 
 ---
 
