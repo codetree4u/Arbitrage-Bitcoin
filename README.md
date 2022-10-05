@@ -1,4 +1,4 @@
-# Pandas Arbitrage Application
+# Arbitrage Bitcoin Application
 
 This is a Pandas application that allows users to arbitrage bitcoin quickly and easily. The application works by that taking in two input files `bitstamp.csv` and  `coinbase.csv` for price history, then run the code in Jupyter Labs.
 
